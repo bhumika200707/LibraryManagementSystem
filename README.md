@@ -1,14 +1,6 @@
 # Library Management System
 
-## Project Information
-- **Course:** 23CSR306 – Java Programming
-- **Academic Year:** 2026–27
-- **Assignment:** II – OOP Mini Project
-- **Student Name:** Bhumika M
-- **Register Number:** 717825E207
-- **Year / Department / Semester / Section:** II / EEE / III / B
-- **Specification:** No. 2 – Library Management System
-- **GitHub Repository:** https://github.com/bhumika200707/LibraryManagementSystem
+
 
 ## Problem Statement
 To develop a menu-driven Library Management System using Java and Object-Oriented Programming concepts. The system manages books and members and supports borrowing and returning books.
